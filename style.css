@@ -544,7 +544,7 @@ header {
 
 
 
-@media (max-width: 1500px) {
+@media (max-width: 1000px) {
 	.gallery-content {
 		display: block;
 	}
